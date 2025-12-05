@@ -24,3 +24,4 @@ public class Group {
         return duration;
     }
 }
+
